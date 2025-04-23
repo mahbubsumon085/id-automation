@@ -4,7 +4,6 @@
 # Example: ./get_merged_commit.sh https://github.com/apache/commons-lang/pull/123
 
 # GitHub Personal Access Token (don't commit this to version control)
-
 PR_URL="$1"
 
 if [ -z "$PR_URL" ]; then

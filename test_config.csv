@@ -1,0 +1,3 @@
+test_type,issue_id,zip,module,preceding_test,flaky_test,iterations,config
+id,mercury-journalYamlTest,mercury-journalYamlTest,system/platform-core,,org.platformlambda.core.PostOfficeTest#journalYamlTest,10,All
+id,asset-share-commons-doPost,asset-share-commons-doPost,core,,com.adobe.aem.commons.assetshare.content.renditions.download.impl.AssetRenditionsDownloadServletTest#doPost,10,All
